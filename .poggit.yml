@@ -1,8 +1,7 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/poggit-orphanage/VoteReward
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/MCPE-PC/VoteReward
 branches:
 - master
 projects:
   VoteReward:
     path: ""
-    icon: icon.png
 ...
